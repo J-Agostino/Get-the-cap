@@ -6,7 +6,7 @@
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your_username/youtube-caption-downloader.git
+   git clone https://github.com/J-Agostino/Get-the-cap.git
    ```
 2. **Install Dependencies:**
    ```bash
@@ -18,7 +18,7 @@
 1. **Run the Script:**
    Execute the Python script from your terminal:
    ```bash
-   python youtube_caption_downloader.py
+   python get-the-cap.py
    ```
 2. **Follow the Prompts:**
    - Enter the YouTube video URL.
